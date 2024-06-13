@@ -1,9 +1,9 @@
-import "./App.css";
+import Accordian from "./components/accordian/Accordian";
 
 function App() {
   return (
     <>
-      <h1>25 React Projects</h1>
+      <Accordian />
     </>
   );
 }
